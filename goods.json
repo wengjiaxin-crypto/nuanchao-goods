@@ -21,7 +21,7 @@
     "integralPrice": 900,
     "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/id3.webp",
     "tags": ["轻便", "可折叠"],
-    "category": "rehabilitation"
+    "category": "rehab"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "integralPrice": 120,
     "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/id4.webp",
     "tags": ["高钙", "无蔗糖"],
-    "category": "nutrition"
+    "category": "food"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "integralPrice": 80,
     "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/id5.webp",
     "tags": ["加绒", "保暖"],
-    "category": "warm"
+    "category": "clothing"
   },
   {
     "id": 6,
@@ -61,6 +61,6 @@
     "integralPrice": 20,
     "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/id8.webp",
     "tags": ["特惠", "高清"],
-    "category": "discount"
+    "category": "promotion"
   }
 ]
