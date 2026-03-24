@@ -43,32 +43,5 @@
     "desc": "非转基因大豆油，线下门店领取",
     "store": "社区生鲜超市",
     "validity": "60天"
-  },
-  {
-    "id": 6,
-    "name": "挂面（2kg）",
-    "points": 60,
-    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/noodles.webp",
-    "desc": "筋道挂面，易消化，适合老人",
-    "store": "社区便利店",
-    "validity": "90天"
-  },
-  {
-    "id": 7,
-    "name": "洗衣液（2kg）",
-    "points": 120,
-    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/laundry.webp",
-    "desc": "天然植萃洗衣液，温和不伤手",
-    "store": "社区服务中心一楼",
-    "validity": "90天"
-  },
-  {
-    "id": 8,
-    "name": "纯牛奶（200ml*12盒）",
-    "points": 180,
-    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/milk.webp",
-    "desc": "全脂纯牛奶，营养早餐必备",
-    "store": "社区生鲜超市",
-    "validity": "15天"
   }
 ]
