@@ -3,7 +3,7 @@
     "id": 1,
     "name": "土鸡蛋礼盒（30枚）",
     "points": 200,
-    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/eggs.webp",
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/pointimage/id1.webp",
     "desc": "农家散养土鸡蛋，线下门店自提",
     "store": "社区服务中心一楼",
     "validity": "30天"
@@ -12,7 +12,7 @@
     "id": 2,
     "name": "新鲜蔬菜组合（5斤）",
     "points": 150,
-    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/vegetables.webp",
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/pointimage/id2.webp",
     "desc": "当季青菜+西红柿+黄瓜+土豆+茄子",
     "store": "社区生鲜超市",
     "validity": "7天"
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "原木抽纸（10包）",
     "points": 80,
-    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/tissue.webp",
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/pointimage/id3.webp",
     "desc": "无香软抽，母婴可用，线下自提",
     "store": "社区便利店",
     "validity": "90天"
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "大米（5kg）",
     "points": 300,
-    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/rice.webp",
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/pointimage/id4.webp",
     "desc": "东北珍珠米，软糯香甜",
     "store": "社区服务中心一楼",
     "validity": "60天"
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "食用油（1.8L）",
     "points": 250,
-    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/oil.webp",
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/pointimage/id5.webp",
     "desc": "非转基因大豆油，线下门店领取",
     "store": "社区生鲜超市",
     "validity": "60天"
