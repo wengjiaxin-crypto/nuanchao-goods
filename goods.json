@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "防滑老人拖鞋",
+    "integralPrice": 50,
+    "imgUrl": "https://xxx.com/tuoxie.jpg",
+    "tags": ["防滑", "软底"]
+  },
+  {
+    "id": 2,
+    "name": "大屏语音血压计",
+    "integralPrice": 200,
+    "imgUrl": "https://xxx.com/yaoxueji.jpg",
+    "tags": ["大屏显示", "语音播报"]
+  }
+]
