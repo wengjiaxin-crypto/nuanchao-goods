@@ -3,14 +3,64 @@
     "id": 1,
     "name": "防滑老人拖鞋",
     "integralPrice": 50,
-    "imgUrl": "https://xxx.com/tuoxie.jpg",
-    "tags": ["防滑", "软底"]
+    "imgUrl": "https://via.placeholder.com/300",
+    "tags": ["防滑", "软底"],
+    "category": "daily"
   },
   {
     "id": 2,
     "name": "大屏语音血压计",
     "integralPrice": 200,
-    "imgUrl": "https://xxx.com/yaoxueji.jpg",
-    "tags": ["大屏显示", "语音播报"]
+    "imgUrl": "https://via.placeholder.com/300",
+    "tags": ["大屏", "语音播报"],
+    "category": "health"
+  },
+  {
+    "id": 3,
+    "name": "轻便折叠轮椅",
+    "integralPrice": 900,
+    "imgUrl": "https://via.placeholder.com/300",
+    "tags": ["轻便", "可折叠"],
+    "category": "rehabilitation"
+  },
+  {
+    "id": 4,
+    "name": "中老年营养奶粉",
+    "integralPrice": 120,
+    "imgUrl": "https://via.placeholder.com/300",
+    "tags": ["高钙", "无蔗糖"],
+    "category": "nutrition"
+  },
+  {
+    "id": 5,
+    "name": "加绒保暖马甲",
+    "integralPrice": 80,
+    "imgUrl": "https://via.placeholder.com/300",
+    "tags": ["加绒", "保暖"],
+    "category": "warm"
+  },
+  {
+    "id": 6,
+    "name": "老年收音机",
+    "integralPrice": 60,
+    "imgUrl": "https://via.placeholder.com/300",
+    "tags": ["大音量", "简单操作"],
+    "category": "entertainment"
+  },
+  {
+    "id": 7,
+    "name": "智能定位手环",
+    "integralPrice": 300,
+    "imgUrl": "https://via.placeholder.com/300",
+    "tags": ["定位", "一键呼救"],
+    "category": "smart"
+  },
+  {
+    "id": 8,
+    "name": "特惠放大镜",
+    "integralPrice": 20,
+    "imgUrl": "https://via.placeholder.com/300",
+    "tags": ["特惠", "高清"],
+    "category": "discount"
   }
 ]
