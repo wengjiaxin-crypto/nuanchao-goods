@@ -1,26 +1,74 @@
 [
   {
     "id": 1,
-    "name": "抽纸一提",
-    "points": 500,
-    "image": "/pages/images/placeholder.png"
+    "name": "土鸡蛋礼盒（30枚）",
+    "points": 200,
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/eggs.webp",
+    "desc": "农家散养土鸡蛋，线下门店自提",
+    "store": "社区服务中心一楼",
+    "validity": "30天"
   },
   {
     "id": 2,
-    "name": "鸡蛋10枚",
-    "points": 800,
-    "image": "/pages/images/placeholder.png"
+    "name": "新鲜蔬菜组合（5斤）",
+    "points": 150,
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/vegetables.webp",
+    "desc": "当季青菜+西红柿+黄瓜+土豆+茄子",
+    "store": "社区生鲜超市",
+    "validity": "7天"
   },
   {
     "id": 3,
-    "name": "老年保暖袜",
-    "points": 600,
-    "image": "/pages/images/placeholder.png"
+    "name": "原木抽纸（10包）",
+    "points": 80,
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/tissue.webp",
+    "desc": "无香软抽，母婴可用，线下自提",
+    "store": "社区便利店",
+    "validity": "90天"
   },
   {
     "id": 4,
-    "name": "防滑拖鞋",
-    "points": 1200,
-    "image": "/pages/images/placeholder.png"
+    "name": "大米（5kg）",
+    "points": 300,
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/rice.webp",
+    "desc": "东北珍珠米，软糯香甜",
+    "store": "社区服务中心一楼",
+    "validity": "60天"
+  },
+  {
+    "id": 5,
+    "name": "食用油（1.8L）",
+    "points": 250,
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/oil.webp",
+    "desc": "非转基因大豆油，线下门店领取",
+    "store": "社区生鲜超市",
+    "validity": "60天"
+  },
+  {
+    "id": 6,
+    "name": "挂面（2kg）",
+    "points": 60,
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/noodles.webp",
+    "desc": "筋道挂面，易消化，适合老人",
+    "store": "社区便利店",
+    "validity": "90天"
+  },
+  {
+    "id": 7,
+    "name": "洗衣液（2kg）",
+    "points": 120,
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/laundry.webp",
+    "desc": "天然植萃洗衣液，温和不伤手",
+    "store": "社区服务中心一楼",
+    "validity": "90天"
+  },
+  {
+    "id": 8,
+    "name": "纯牛奶（200ml*12盒）",
+    "points": 180,
+    "imgUrl": "https://raw.githubusercontent.com/wengjiaxin-crypto/nuanchao-goods/main/images/milk.webp",
+    "desc": "全脂纯牛奶，营养早餐必备",
+    "store": "社区生鲜超市",
+    "validity": "15天"
   }
 ]
