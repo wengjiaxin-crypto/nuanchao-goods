@@ -1,1 +1,26 @@
-
+[
+  {
+    "id": 1,
+    "name": "抽纸一提",
+    "points": 500,
+    "image": "/pages/images/placeholder.png"
+  },
+  {
+    "id": 2,
+    "name": "鸡蛋10枚",
+    "points": 800,
+    "image": "/pages/images/placeholder.png"
+  },
+  {
+    "id": 3,
+    "name": "老年保暖袜",
+    "points": 600,
+    "image": "/pages/images/placeholder.png"
+  },
+  {
+    "id": 4,
+    "name": "防滑拖鞋",
+    "points": 1200,
+    "image": "/pages/images/placeholder.png"
+  }
+]
